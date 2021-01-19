@@ -1,0 +1,212 @@
+*{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+.container{
+	background-color: #fff;
+	width: auto;
+	height: 630px;
+	margin: auto;
+}
+.navbar{
+	padding: 30px 0 20px 600px;
+}
+.navbar a{
+	text-decoration: none;
+	text-align: center;
+	font-size: 22px;
+	display: inline-block;
+	padding: 10px;
+	color: #aaa;
+}
+.navbar a:hover, a:active{
+	color: #000;
+	border-bottom: 2px solid #000;
+}
+.slide{
+	background-image: url("images/electric-cables-3657404_1920.jpg");
+	max-width: 100%;
+	height: 400px;
+	margin: 0;
+	padding: 0;
+	border: 1px solid #fff;
+	border-radius: 15px;
+	background-size: 100% 100%;
+	overflow: hidden;
+	background-repeat: no-repeat;
+}
+#center{
+	text-align: center;
+	font-family: serif;
+	padding: 70px;
+	color: white;
+	font-size: 100px; 
+}
+#name{
+	height: 50px;
+	width: 700px;
+	height: 70px;
+	border: 1px solid #fff;
+	border-radius: 20px;
+	background-color: white;
+	color: black;
+	font-size: 40px;
+	text-align: center;
+	margin: -50px 0px 0 310px;
+	padding: 15px;
+	font-family: serif;
+}
+hr{
+	margin: 80px 0 0 530px;
+	width: 250px;
+	text-align: center; 
+}
+#address_1{
+	font-size: 50px;
+	/*text-align: center;*/
+	font-family: serif;
+	margin-top: 20px;
+	margin-bottom: 70px;
+	margin-left: 40px;
+}
+#image_1{
+	width: 500px;
+	height: 500px;
+	background-image: url("images/andrey-metelev-qpAOxji4dAo-unsplash.jpg");
+	background-size: cover;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	margin-left: 50px;
+	border: 1px solid #fff;
+	border-radius: 20px;
+}
+#paragraph_1{
+	width: 500px;
+	font-size: 30px;
+	margin-left: 750px;
+	margin-top: -400px;
+	letter-spacing: 2px;
+}
+#image_2{
+	width: 500px;
+	height: 500px;
+	background-image: url("images/transfar.jpg");
+	background-size: cover;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	margin-left: 800px;
+	margin-top: 300px;
+	border: 1px solid #fff;
+	border-radius: 20px;
+}
+#paragraph_2{
+	width: 600px;
+	font-size: 30px;
+	margin-left: 50px;
+	margin-top: -350px;
+	letter-spacing: 2px;
+}
+#image_3{
+	width: 500px;
+	height: 500px;
+	background-image: url("images/creat.jpg");
+	background-size: cover;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	margin-left: 50px;
+	margin-top: 230px;
+	border: 1px solid #fff;
+	border-radius: 20px;
+}
+#paragraph_3{
+	width: 500px;
+	font-size: 29px;
+	margin-left: 750px;
+	margin-top: -400px;
+	letter-spacing: 2px;
+}
+#hr_1{
+	width: 250px;
+	text-align: center;
+	margin-top: 170px;
+}
+#adds{
+	font-size: 50px;
+	font-family: serif;
+	margin-top: 20px;
+	margin-bottom: 70px;
+	margin-left: 40px;
+}
+.customer{
+	display: inline-block;
+}
+.logo_1 img{
+	width: 200px;
+	height: 40px;
+	margin-left: 200px;
+	margin-right: 50px;
+	margin-top: -30;
+}
+.logo_2 img{
+	width: 200px;
+	height: 40px;
+	margin-left: 550px;
+	margin-right: 50px;
+	margin-top: -70px;
+}
+.logo_3 img{
+	width: 200px;
+	height: 40px;
+	margin-left: 900px;
+	margin-right: 50px;
+	margin-top: -140px;
+}
+.footer-1{
+	background-color: #444;
+	color: #fff;
+	height: 200px;
+	border: 1px solid #fff;
+	border-radius: 20px 20px 0 0;
+}
+.copy p{
+	text-align: center;
+	padding: 45px 0 0 0;
+}
+.ref{
+	margin-left: 250px;
+	padding-top: 30px;
+}
+.ref a{
+	text-decoration: none;
+	color: white;
+}
+.ref a:hover{
+	color: #aaa;
+}
+.ref-1{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.ref-2{
+	margin-left: 650px;
+	margin-top: -75px;
+}
+.ref-2 a{
+	text-decoration: none;
+	color: white;
+}
+.ref-2 a:hover{
+	color: #aaa;
+}
+.ref-3{
+	margin-left: 1040px;
+	margin-top: -75px;
+}
+.ref-3 a{
+	text-decoration: none;
+	color: white;
+}
+.ref-3 a:hover{
+	color: #aaa;
+}
